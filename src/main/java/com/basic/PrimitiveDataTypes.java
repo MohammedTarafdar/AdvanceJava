@@ -1,6 +1,5 @@
 package com.basic;
 
-import java.time.chrono.ThaiBuddhistEra;
 
 public class PrimitiveDataTypes {
 
@@ -97,9 +96,6 @@ public class PrimitiveDataTypes {
 		System.out.println("boolean holds either true of false.\n"+
 		"size: 1 bytes\n"+"Default value: false");
 		System.out.println("The value of boolValue is : "+ boolValue);
-		
-		
-		
 		
 		
 		
