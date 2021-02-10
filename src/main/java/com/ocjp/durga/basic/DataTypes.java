@@ -1,6 +1,6 @@
-package com.ocjp.durga;
+package com.ocjp.durga.basic;
 
-public class LanguageFundamental {
+public class DataTypes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
