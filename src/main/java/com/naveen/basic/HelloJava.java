@@ -1,4 +1,4 @@
-package com.basic;
+package com.naveen.basic;
 
 /*	"public" and "class" are two java keywords. The "public" keyword is an access 
  * modifier and "class" keyword is used ti define a class

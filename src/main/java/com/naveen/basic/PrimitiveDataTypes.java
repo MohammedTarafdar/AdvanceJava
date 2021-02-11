@@ -1,4 +1,4 @@
-package com.basic;
+package com.naveen.basic;
 
 
 public class PrimitiveDataTypes {
